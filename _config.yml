@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 欲做诸佛龙象，先做众生牛马
+title: Rain Drop
 subtitle: Between Days
-description: This is a website. 
+description: 欲做诸佛龙象，先做众生牛马
 keywords: 前端
 author: jpxgkh
 language: 
@@ -79,5 +79,6 @@ theme: diaspora
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: root@47.91.225.8:/blog.git,master
+  repo: root@47.91.225.8:/www/blog.git,master
+  branch: master
   message: updates
